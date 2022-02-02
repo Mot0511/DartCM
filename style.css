@@ -1,0 +1,94 @@
+body{
+  padding: 0px;
+}
+.header{
+  width: 100%;
+  background: url(img/header_bg.png);
+  height: 850px;
+}
+.heading{
+  position: absolute;
+  top: 50px;
+  left: 80px;
+}
+.menu{
+  position: absolute;
+  left: 35%;
+  top: 65px;
+}
+.menu a{
+  padding: 20px;
+  text-decoration: none;
+  color: white;
+}
+.menu a:hover{
+  padding: 20px;
+  text-decoration: none;
+  color: black;
+}
+.menu h1{
+  text-transform: uppercase;
+  color: white;
+  position: absolute;
+  left: -600px;
+  top: 150px;
+  font-size: 50px;
+}
+.menu p{
+  color: white;
+  position: absolute;
+  left: -600px;
+  top: 300px;
+}
+.header_buttons{
+  position: absolute;
+  top: 500px;
+  left: 70px;
+}
+.bt1{
+  width: 150px;
+  height: 55px;
+  background: url(img/bt1.jpg);
+  border: 0px;
+}
+.bt2{
+  width: 160px;
+  height: 55px;
+  background: url(img/bt2.jpg);
+  border: 0px;
+  padding-right:
+}
+.video{
+  width: 634px;
+  height: 354px;
+  background: url(img/bg_video.png);
+  position: absolute;
+  top: 230px;
+  right: 100px;
+}
+.video button{
+  width: 60px;
+  height: 60px;
+  background: url(img/play_video.png);
+  border: 0px;
+  margin-left: 45%;
+  margin-top: 20%;
+}
+.video p{
+  padding-left: 38%;
+}
+.grey{
+  color: #b0bec5;
+}
+.dignitys{
+  margin-top: 100px;
+}
+.bt3{
+  width: 150px;
+  height: 60px;
+  background: url(img/bt3.jpg);
+  border: 0px;
+  position: relative;
+  top: 150px;
+  left: -45%;
+}
